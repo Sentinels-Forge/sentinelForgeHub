@@ -1,6 +1,5 @@
 # sentinelForgeHub
 
-Contributors:
+Contributors:  
 Gwizzle651  
-
 JimBobJoe36
