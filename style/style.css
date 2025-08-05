@@ -13,7 +13,7 @@ body{
 }
 /* Top menu bar */
 .navbar {
-  background-color: #000000;
+  background-color: #1b1b1b;
   color: white;
   padding: 1rem;
   display: flex;
